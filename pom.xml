@@ -136,6 +136,7 @@ LICENSE file.
     <mongodb.version>3.11.0</mongodb.version>
     <mongodb.async.version>2.0.1</mongodb.async.version>
     <openjpa.jdbc.version>2.1.1</openjpa.jdbc.version>
+    <pmemkv.version>1.0.0</pmemkv.version>
     <orientdb.version>2.2.37</orientdb.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <redis.version>2.9.0</redis.version>
@@ -187,6 +188,7 @@ LICENSE file.
     <module>mongodb</module>
     <module>nosqldb</module>
     <module>orientdb</module>
+    <module>pmemkv</module>
     <module>postgrenosql</module>
     <module>rados</module>
     <module>redis</module>
